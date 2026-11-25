@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+<style>
+  .name{font-family:Inter,system-ui,sans-serif;font-size:56px;font-weight:700;letter-spacing:-1.5px;fill:#f7f7fb;opacity:0;animation:fade 8s ease-in-out infinite}
+  .meta{font-family:ui-monospace,monospace;font-size:13px;letter-spacing:2px;fill:#a5a5b3;opacity:0;animation:fade 8s ease-in-out .35s infinite}
+  .line{transform-origin:center;animation:draw 8s ease-in-out infinite}
+  .corner{fill:#dc2626;opacity:.65}
+  @keyframes fade{0%,5%{opacity:0;transform:translateY(8px)}16%,88%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+  @keyframes draw{0%,18%{transform:scaleX(0)}30%,90%{transform:scaleX(1)}100%{transform:scaleX(1)}}
+</style>
+<rect width="800" height="300" rx="14" fill="#0d0d10"/>
+<path class="corner" d="M40 42h22v2H42v20h-2zM760 42h-22v2h20v20h2z"/>
+<text class="name" x="400" y="139" text-anchor="middle">Aya Aboelkheir</text>
+<rect class="line" x="255" y="162" width="290" height="2" rx="1" fill="#dc2626"/>
+<text class="meta" x="400" y="204" text-anchor="middle">FRONTEND DEVELOPER · EGYPT</text>
+<text x="400" y="255" text-anchor="middle" font-family="ui-monospace,monospace" font-size="11" letter-spacing="3" fill="#686875">DESIGN  /  BUILD  /  IMPROVE</text>
+</svg>
