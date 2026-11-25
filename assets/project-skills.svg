@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470">
+<style>
+  text{font-family:Inter,system-ui,sans-serif}
+  .label{font-size:15px;font-weight:600;fill:#f7f7fb}
+  .value{font-family:ui-monospace,monospace;font-size:12px;fill:#a5a5b3}
+  .track{fill:#292930}
+  .fill{fill:#dc2626;transform-box:fill-box;transform-origin:left center;animation:grow 2s cubic-bezier(.2,.7,.2,1) both}
+  .row{opacity:0;animation:appear .7s ease-out forwards}
+  .r1{animation-delay:.15s}.r2{animation-delay:.25s}.r3{animation-delay:.35s}.r4{animation-delay:.45s}.r5{animation-delay:.55s}.r6{animation-delay:.65s}.r7{animation-delay:.75s}.r8{animation-delay:.85s}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes appear{to{opacity:1}}
+</style>
+<rect width="800" height="470" rx="14" fill="#0d0d10"/>
+<path d="M48 50h28v3H48z" fill="#dc2626"/>
+<text x="48" y="92" fill="#f7f7fb" font-size="30" font-weight="700" letter-spacing="-1">Technical Skills.</text>
+<text x="48" y="119" fill="#a5a5b3" font-family="ui-monospace,monospace" font-size="11" letter-spacing="1.6">PROJECT PRACTICE INDEX · BASED ON VISIBLE REPOSITORIES</text>
+<g class="row r1">
+<text class="label" x="48" y="164">HTML5</text>
+<rect class="track" x="250" y="152" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="152" width="404.2" height="8" rx="4" style="animation-delay:0.3s"/>
+<text class="value" x="720" y="161" text-anchor="end">94%</text>
+</g>
+<g class="row r2">
+<text class="label" x="48" y="200">CSS3</text>
+<rect class="track" x="250" y="188" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="188" width="395.6" height="8" rx="4" style="animation-delay:0.42s"/>
+<text class="value" x="720" y="197" text-anchor="end">92%</text>
+</g>
+<g class="row r3">
+<text class="label" x="48" y="236">JavaScript</text>
+<rect class="track" x="250" y="224" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="224" width="378.4" height="8" rx="4" style="animation-delay:0.54s"/>
+<text class="value" x="720" y="233" text-anchor="end">88%</text>
+</g>
+<g class="row r4">
+<text class="label" x="48" y="272">React</text>
+<rect class="track" x="250" y="260" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="260" width="326.8" height="8" rx="4" style="animation-delay:0.6599999999999999s"/>
+<text class="value" x="720" y="269" text-anchor="end">76%</text>
+</g>
+<g class="row r5">
+<text class="label" x="48" y="308">Tailwind CSS</text>
+<rect class="track" x="250" y="296" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="296" width="309.6" height="8" rx="4" style="animation-delay:0.78s"/>
+<text class="value" x="720" y="305" text-anchor="end">72%</text>
+</g>
+<g class="row r6">
+<text class="label" x="48" y="344">Bootstrap</text>
+<rect class="track" x="250" y="332" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="332" width="292.4" height="8" rx="4" style="animation-delay:0.8999999999999999s"/>
+<text class="value" x="720" y="341" text-anchor="end">68%</text>
+</g>
+<g class="row r7">
+<text class="label" x="48" y="380">Material UI</text>
+<rect class="track" x="250" y="368" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="368" width="283.8" height="8" rx="4" style="animation-delay:1.02s"/>
+<text class="value" x="720" y="377" text-anchor="end">66%</text>
+</g>
+<g class="row r8">
+<text class="label" x="48" y="416">API Integration</text>
+<rect class="track" x="250" y="404" width="430" height="8" rx="4"/>
+<rect class="fill" x="250" y="404" width="301" height="8" rx="4" style="animation-delay:1.14s"/>
+<text class="value" x="720" y="413" text-anchor="end">70%</text>
+</g>
+<path d="M48 430H752" stroke="#292930"/>
+<text x="48" y="451" fill="#686875" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1">INDICATIVE PROJECT EXPOSURE — NOT A PROFICIENCY TEST</text>
+</svg>
