@@ -1,88 +1,68 @@
-# Hi, I'm Aya Aboelkheir 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aya-aboelkheir/aya-aboelkheir/main/assets/sleek-header.svg" width="100%" alt="Aya Aboelkheir — Frontend Developer" />
+</div>
 
-### Frontend Developer
+<div align="center">
 
-I'm a Frontend Developer passionate about building responsive, interactive, and user-friendly web applications. I enjoy turning ideas into functional interfaces, exploring modern technologies, and continuously improving my development skills through hands-on projects.
+**I build responsive interfaces and interactive web experiences.**
 
----
+[LinkedIn](https://www.linkedin.com/in/aya-aboelkheir-70a1b9357/) · [GitHub](https://github.com/aya-aboelkheir)
 
-### 🛠️ Technical Skills
-
-**Languages**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
-**Frameworks & Libraries**
-- React
-- Bootstrap
-- Tailwind CSS
-- Material UI (MUI)
-
-**Frontend Concepts**
-- Responsive Web Design
-- DOM Manipulation
-- React Components & Hooks
-- State Management
-- Context API
-- REST API Integration
-- Fetch API & Asynchronous JavaScript
-
-**Tools**
-- Git & GitHub
-- Vite
-- VS Code
+</div>
 
 ---
 
-### 🚀 Projects & Experience
+## About
 
-I've worked on different projects that helped me practice and develop my frontend skills, including:
+I'm a Frontend Developer who enjoys turning ideas into modern, responsive, and user-friendly web applications. I work with HTML, CSS, JavaScript, and React, and I like building real projects that bring together clean interfaces, useful interactions, and dynamic data.
 
-- **Responsive Websites:** Building structured and responsive web pages using HTML, CSS, and Bootstrap.
-- **JavaScript Applications:** Creating interactive applications using DOM manipulation, events, and JavaScript logic.
-- **API-Based Applications:** Fetching and displaying dynamic data from external APIs.
-- **React Applications:** Building component-based interfaces and managing application state with React Hooks and Context API.
-- **E-commerce Websites:** Developing shopping experiences with product catalogs, search, filtering, carts, and wishlists.
+## Technical skills
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aya-aboelkheir/aya-aboelkheir/main/assets/project-skills.svg" width="100%" alt="Project-based technical skills progress bars" />
+</div>
+
+<sub>The bars represent an indicative project-exposure index based on the technologies and implementation depth visible across my public repositories — not a test or a claim of professional proficiency.</sub>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,vite,git,github&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Material UI, Vite, Git and GitHub" />
+</div>
+
+## Selected work
+
+| Project | What I built | Stack |
+|---|---|---|
+| [ShopSphere](https://github.com/aya-aboelkheir/ShopSphere) · [Live](https://shop-sphere-three-weld.vercel.app/) | E-commerce frontend with product catalog, search, filters, product details, cart, wishlist, and Arabic/English support | React · Vite · Tailwind CSS · MUI |
+| [VALENTINO Jewellery](https://github.com/aya-aboelkheir/VALENTINO-Jewellery) | Multi-page jewellery storefront with collections, search, cart, and wishlist | HTML · CSS · JavaScript |
+| [React To-Do App](https://github.com/aya-aboelkheir/React-To-Do-App) | Task manager with reusable components, Context API, state handling, and dialogs | React · Vite · Tailwind CSS · MUI |
+| [My Portfolio](https://github.com/aya-aboelkheir/My_Portfolio) | Personal portfolio website | HTML · CSS · JavaScript |
+
+## More projects
+
+- [Weather App](https://github.com/aya-aboelkheir/weather-app) — API-powered weather application
+- [DOM & Bootstrap Project](https://github.com/aya-aboelkheir/DOM_project) — dynamic product rendering with Fetch API
+- [QuickSort with GitHub Copilot](https://github.com/aya-aboelkheir/QuickSort-Copilot) — algorithm implementation, tests, and performance exploration
+- [Quiz App](https://github.com/aya-aboelkheir/Quiz-App) — interactive quiz and score flow
+- [Password Generator](https://github.com/aya-aboelkheir/Password-Generator) — JavaScript password generator
+- [JavaScript To-Do App](https://github.com/aya-aboelkheir/To-Do-App) — task manager with vanilla JavaScript
+- [HTML & CSS Project](https://github.com/aya-aboelkheir/html-css-project) — responsive company website
+- [React Portfolio](https://github.com/aya-aboelkheir/portfolio-react) — portfolio built with React and Tailwind CSS
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aya-aboelkheir&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-aboelkheir&layout=compact&hide_border=true&theme=transparent" height="160" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aya-aboelkheir&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity" />
+</div>
 
 ---
 
-### ⭐ Featured Projects
+<div align="center">
 
-**[ShopSphere](https://github.com/aya-aboelkheir/ShopSphere)**  
-A modern e-commerce frontend built with React, Vite, Tailwind CSS, and Material UI.
+**Thanks for visiting — more projects and experiments coming soon.**
 
-**[VALENTINO Jewellery](https://github.com/aya-aboelkheir/VALENTINO-Jewellery)**  
-A multi-page jewellery e-commerce website featuring collections, shopping cart, wishlist, and search functionality.
-
-**[React To-Do App](https://github.com/aya-aboelkheir/React-To-Do-App)**  
-A task management application built with React, Material UI, Context API, and state management.
-
-**[My Portfolio](https://github.com/aya-aboelkheir/My_Portfolio)**  
-A personal portfolio website showcasing frontend development skills and projects.
-
----
-
-### 📚 More Projects
-
-- [HTML & CSS Project](https://github.com/aya-aboelkheir/html-css-project)
-- [DOM & Bootstrap Project](https://github.com/aya-aboelkheir/DOM_project)
-- [Weather App](https://github.com/aya-aboelkheir/weather-app)
-- [Password Generator](https://github.com/aya-aboelkheir/Password-Generator)
-- [Quiz App](https://github.com/aya-aboelkheir/Quiz-App)
-- [JavaScript To-Do App](https://github.com/aya-aboelkheir/To-Do-App)
-- [React Portfolio](https://github.com/aya-aboelkheir/portfolio-react)
-- [QuickSort with GitHub Copilot](https://github.com/aya-aboelkheir/QuickSort-Copilot)
-
----
-
-### 🌱 Always Learning
-
-Continuously learning, building projects, and exploring better ways to create useful and engaging web experiences.
-
----
-
-### 📫 Connect With Me
-
-- **GitHub:** [aya-aboelkheir](https://github.com/aya-aboelkheir)
-- **LinkedIn:** [Aya Aboelkheir](https://www.linkedin.com/in/aya-aboelkheir-70a1b9357/)
+</div>
